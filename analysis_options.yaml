@@ -1,0 +1,14 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    prefer_single_quotes: true
+    always_specify_types: false
+    sort_constructors_first: false
+    always_use_package_imports: true
+    avoid_dynamic_calls: false
+    avoid_empty_else: true
+    avoid_relative_lib_imports: true
+    avoid_type_to_string: true
+    avoid_types_as_parameter_names: true
+    unnecessary_statements: true
