@@ -72,7 +72,7 @@ class _MainPageState extends State<MainPage> {
     if (location.startsWith(watchlistPath)) {
       return 3;
     }
-    if (location.startsWith(watchlistPath)) {
+    if (location.startsWith(developersPath)) {
       return 4;
     }
     return 0;

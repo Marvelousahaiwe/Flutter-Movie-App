@@ -1,6 +1,6 @@
 # Movie App
 
-Movie app made in Flutter with clean architecture using BLoC, Hive and the movie db API.
+A Flutter movie app built with clean architecture using BLoC, Hive, and The Movie DB API. It displays the latest movies and TV shows with detailed information, including reviews, runtime, and ratings.
 
 ## Features
 
@@ -20,6 +20,9 @@ Movie app made in Flutter with clean architecture using BLoC, Hive and the movie
 - Similar tv shows
 - TV show season details
 
+## App Download
+- Click to download app [Download](https://i.diawi.com/aAquBJ)
+
 ## Screenshots
 <p float="left" align="center">
   <img src="screenshots/1.jpg" width="300" /> 
@@ -28,8 +31,23 @@ Movie app made in Flutter with clean architecture using BLoC, Hive and the movie
   <img src="screenshots/4.jpg" width="300" />
   <img src="screenshots/5.jpg" width="300" />
   <img src="screenshots/6.jpg" width="300" />
+  <img src="screenshots/7.jpg" width="300" />
 
 </p>
+
+## ⚙️ Tech Stack
+
+- Framework: Flutter
+
+- Architecture: Clean Architecture
+
+- State Management: BLoC (Business Logic Component)
+
+- Local Storage: Hive
+
+- Networking: The Movie DB API
+
+- Language: Dart
 
 ## Installation
 
@@ -61,30 +79,8 @@ API_BASE_URL=https://api.themoviedb.org/3
 flutter run
 ```
 
-## Packages
+## Developer
 
-- [cached_network_image](https://pub.dev/packages/cached_network_image)
-- [carousel_slider](https://pub.dev/packages/carousel_slider)
-- [cupertino_icons](https://pub.dev/packages/cupertino_icons)
-- [dartz](https://pub.dev/packages/dartz)
-- [dio](https://pub.dev/packages/dio)
-- [equatable](https://pub.dev/packages/equatable)
-- [flutter_bloc](https://pub.dev/packages/flutter_bloc)
-- [flutter_dotenv](https://pub.dev/packages/flutter_dotenv)
-- [flutter_rating_bar](https://pub.dev/packages/flutter_rating_bar)
-- [get_it](https://pub.dev/packages/get_it)
-- [go_router](https://pub.dev/packages/go_router)
-- [google_fonts](https://pub.dev/packages/google_fonts)
-- [hive](https://pub.dev/packages/hive)
-- [hive_flutter](https://pub.dev/packages/hive_flutter)
-- [path_provider](https://pub.dev/packages/path_provider)
-- [readmore](https://pub.dev/packages/readmore)
-- [shimmer](https://pub.dev/packages/shimmer)
-- [stream_transform](https://pub.dev/packages/stream_transform)
-- [url_launcher](https://pub.dev/packages/url_launcher)
-
-## Acknowledgements
-
-- [Marvelous](https://pub.dev/packages/url_launcher)
+- [Marvelous Ahaiwe](https://www.linkedin.com/in/marvelous-ahaiwe-31488b184)
 
 
