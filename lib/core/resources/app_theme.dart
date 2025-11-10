@@ -30,23 +30,14 @@ ThemeData getApplicationTheme() {
 
     // text theme
     textTheme: TextTheme(
-      titleMedium: _getTextStyle(
-        fontSize: 20,
-        color: AppColors.secondaryText,
-      ),
-      titleSmall: _getTextStyle(
-        fontSize: 18,
-        color: AppColors.secondaryText,
-      ),
+      titleMedium: _getTextStyle(fontSize: 20, color: AppColors.secondaryText),
+      titleSmall: _getTextStyle(fontSize: 18, color: AppColors.secondaryText),
       bodyLarge: _getTextStyle(
         fontSize: 14,
         fontWeight: FontWeight.w400,
         color: AppColors.primaryText,
       ),
-      bodyMedium: _getTextStyle(
-        fontSize: 14,
-        color: AppColors.secondaryText,
-      ),
+      bodyMedium: _getTextStyle(fontSize: 14, color: AppColors.secondaryText),
       bodySmall: _getTextStyle(
         fontSize: 12,
         fontWeight: FontWeight.w400,

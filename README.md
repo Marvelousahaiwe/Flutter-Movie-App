@@ -21,7 +21,7 @@ A Flutter movie app built with clean architecture using BLoC, Hive, and The Movi
 - TV show season details
 
 ## App Download
-- Click to download app [Download](https://i.diawi.com/aAquBJ)
+- Click to download app [Download](https://i.diawi.com/G5LHAM)
 
 ## Screenshots
 <p float="left" align="center">

@@ -18,7 +18,8 @@ class AppStrings {
   static const String myName = 'Marvelous Ahaiwe';
   static const String myLinkedinLink =
       'https://www.linkedin.com/in/marvelous-ahaiwe-31488b184';
-  static const String projectGithubLink = 'https://github.com/Marvelousahaiwe';
+  static const String projectGithubLink =
+      'https://github.com/Marvelousahaiwe/Flutter-Movie-App';
   static const String email = 'chinweokeahaiwe@gmail.com';
   static const String watchlist = 'Watchlist';
   static const String developerInfo = 'Developer Info';
@@ -34,9 +35,14 @@ class AppStrings {
   static const String sourceCode = 'Last Episode';
   static const String appInfos = 'App Info';
   static const String appInfo =
-      'Movie is a movie and TV show app that provides users with information about movies and TV shows, including details such as cast, crew, trailers, reviews, and similar titles. Users can also search for specific movies or TV shows and add them to their watchlist for easy access later.';
+      'Movie is a movie and TV show app that provides users with information '
+      'about movies and TV shows, including details such as cast, crew,'
+      ' trailers, reviews, and similar titles. Users can also search for'
+      ' specific movies or TV shows and add them to their watchlist for'
+      ' easy access later.';
   static const String searchText =
-      'By typing in search bar, Movia search in movies and series and then show you the best results.';
+      'By typing in search bar, Movia search in movies and series and then'
+      ' show you the best results.';
   static const String searchHint = 'Search for Movies, Series...';
   static const String watchlistIsEmpty = 'Watchlist is empty';
   static const String watchlistText =
